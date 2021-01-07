@@ -1,9 +1,8 @@
 ### Hi there, I'm [siva sankar reddy Bogala][website] 👋
 [![Website](https://img.shields.io/website?label=MY_portfolio&style=for-the-badge&url=https%3A%2F%2Fportfoliohnvk.netlify.app)][website] 
 ![](https://visitor-badge.laobi.icu/badge?page_id=myshiva59) [![Github](https://img.shields.io/github/followers/myshiva59?label=Followers&logo=Github)](https://github.com/myshiva59)
-
-
 </br>
+
 ## I'm a Traveler, writer and Developer
 
 - 🔭 I just launched my new : [portfolio][website]
@@ -34,6 +33,7 @@
  </p>
  </br>
  </br>
+ 
 ## :trophy: My Github Stats:
 <div>
 <a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=myshiva59&count_private=true&show_icons=true&theme=tokyonight">
