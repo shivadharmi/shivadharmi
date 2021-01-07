@@ -1,9 +1,9 @@
-### Hi there, I'm [siva sankar reddy Bogala][website] 👋
+## Hi there, I'm [siva sankar reddy Bogala][website] 👋
 [![Website](https://img.shields.io/website?label=MY_portfolio&style=for-the-badge&url=https%3A%2F%2Fportfoliohnvk.netlify.app)][website] 
 ![](https://visitor-badge.laobi.icu/badge?page_id=myshiva59) [![Github](https://img.shields.io/github/followers/myshiva59?label=Followers&logo=Github)](https://github.com/myshiva59)
 </br>
 
-## I'm a Traveler, writer and Developer
+## I'm a Traveller, writer and Developer
 
 - 🔭 I just launched my new : [portfolio][website]
 -  🤞 I’m currently learning flutter
@@ -20,7 +20,7 @@
 </p>
 </br>
 
- ### Languages and Tools:
+ ## 🛠 Languages and Tools:
  <p align="center">
     <img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
     <img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
