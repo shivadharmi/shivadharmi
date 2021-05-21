@@ -1,5 +1,5 @@
 ## Hi there, I'm [siva sankar reddy Bogala][website] 👋
-[![Website](https://img.shields.io/website?label=MY_portfolio&style=for-the-badge&url=https%3A%2F%2Fportfoliohnvk.netlify.app)][website] 
+[![Website](https://img.shields.io/website?label=MY_portfolio&style=for-the-badge&url=https%3A%2F%2Fshivashankarreddybogala.netlify.app)][website] 
 ![](https://visitor-badge.laobi.icu/badge?page_id=myshiva59) [![Github](https://img.shields.io/github/followers/myshiva59?label=Followers&logo=Github)](https://github.com/myshiva59)
 </br>
 
@@ -14,7 +14,7 @@
 
 ## :email: Find me on:
 <p align="center">
- <a href="https://portfoliohnvk.netlify.app/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="github" height="40" style="vertical-align:top; margin:4px"> </a>
+ <a href="https://shivashankarreddybogala.netlify.app/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="github" height="40" style="vertical-align:top; margin:4px"> </a>
  <a href="https://www.linkedin.com/in/bogalassr/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" height="40" style="vertical-align:top; margin:4px"></a>
  <a href="mailto:shivadharmi@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="mail" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
