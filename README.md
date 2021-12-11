@@ -35,13 +35,8 @@
  </br>
  
 ## :trophy: My Github Stats:
-<div>
-<a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=shivadharmi&count_private=true&show_icons=true&theme=tokyonight">
-  <img  align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=shivadharmi&count_private=true&show_icons=true&theme=tokyonight" />
-</a>
-<a href="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=shivadharmi&hide=php&theme=tokyonight">
-  <img align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=shivadharmi&hide=php&theme=tokyonight" />
-</a>
-</div>
+![Your Repository’s Stats](https://github-readme-stats.vercel.app/api?username=shivadharmi&show_icons=true)
+
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=shivadharmi&theme=blue-green)
 
 [website]:https://portfoliohnvk.netlify.app/
