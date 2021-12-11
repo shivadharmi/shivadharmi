@@ -1,6 +1,6 @@
 ## Hi there, I'm [siva sankar reddy Bogala][website] 👋
 [![Website](https://img.shields.io/website?label=MY_portfolio&style=for-the-badge&url=https%3A%2F%2Fshivashankarreddybogala.netlify.app)][website] 
-![](https://visitor-badge.laobi.icu/badge?page_id=myshiva59) [![Github](https://img.shields.io/github/followers/myshiva59?label=Followers&logo=Github)](https://github.com/myshiva59)
+![](https://visitor-badge.laobi.icu/badge?page_id=shivadharmi) [![Github](https://img.shields.io/github/followers/shivadharmi?label=Followers&logo=Github)](https://github.com/shivadharmi)
 </br>
 
 ## I'm a Traveller, writer and Developer
@@ -36,11 +36,11 @@
  
 ## :trophy: My Github Stats:
 <div>
-<a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=myshiva59&count_private=true&show_icons=true&theme=tokyonight">
-  <img  align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=myshiva59&count_private=true&show_icons=true&theme=tokyonight" />
+<a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=shivadharmi&count_private=true&show_icons=true&theme=tokyonight">
+  <img  align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=shivadharmi&count_private=true&show_icons=true&theme=tokyonight" />
 </a>
-<a href="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=myshiva59&hide=php&theme=tokyonight">
-  <img align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=myshiva59&hide=php&theme=tokyonight" />
+<a href="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=shivadharmi&hide=php&theme=tokyonight">
+  <img align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=shivadharmi&hide=php&theme=tokyonight" />
 </a>
 </div>
 
