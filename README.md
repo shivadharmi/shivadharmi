@@ -39,4 +39,4 @@
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=shivadharmi&theme=blue-green)
 
-[website]:https://portfoliohnvk.netlify.app/
+[website]:https://shivashankarreddybogala.netlify.app/
