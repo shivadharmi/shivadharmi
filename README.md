@@ -1,5 +1,5 @@
 ## Hi there, I'm [siva sankar reddy Bogala][website] 👋
-[![Website](https://img.shields.io/website?label=MY_portfolio&style=for-the-badge&url=https%3A%2F%2Fshivashankarreddybogala.netlify.app)][website] 
+[![Website](https://img.shields.io/website?label=Portfolio&style=for-the-badge&url=https%3A%2F%2Fshivashankarreddybogala.netlify.app)][website] 
 ![](https://visitor-badge.laobi.icu/badge?page_id=shivadharmi) [![Github](https://img.shields.io/github/followers/shivadharmi?label=Followers&logo=Github)](https://github.com/shivadharmi)
 </br>
 
