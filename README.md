@@ -1,3 +1,4 @@
+## This intoduction need to be updated.
 ## Hi there, I'm [siva sankar reddy Bogala][website] 👋
 [![Website](https://img.shields.io/website?label=Portfolio&style=for-the-badge&url=https%3A%2F%2Fshivashankarreddybogala.netlify.app)][website] 
 ![](https://visitor-badge.laobi.icu/badge?page_id=shivadharmi) [![Github](https://img.shields.io/github/followers/shivadharmi?label=Followers&logo=Github)](https://github.com/shivadharmi)
@@ -5,10 +6,9 @@
 
 ## I'm a Traveller, writer and Developer
 
-- 🔭 I just launched my new : [portfolio][website]
--  🤞 I’m currently learning flutter
+-  🤞 I’m currently looking forward to do open-source contributions
 - 👓 I’m looking to collaborate with other developers across the world
-- ✔️ 2021 Goals: Want to build tools for education
+- ✔️ 2023 Goals: Want to learn system designing and build complex system.
 - ⚡ Fun fact: I love to write quotes, watch web series and movies
 </br>
 
